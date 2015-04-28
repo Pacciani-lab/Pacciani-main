@@ -1,2 +1,3 @@
 # Scripts
-miscellaneous scripts
+# miscellaneous Python and Perl scripts
+
